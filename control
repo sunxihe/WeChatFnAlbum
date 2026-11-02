@@ -1,0 +1,9 @@
+Package: org.ac.wechatfnalbum
+Name: 微信飞牛相册
+Version: 0.4.3
+Architecture: iphoneos-arm64
+Description: Browse personal fnOS albums from the WeChat chat photo picker.
+Maintainer: AC
+Author: AC
+Section: Tweaks
+Depends: firmware (>= 15.0)

@@ -1,0 +1,16 @@
+.theos/
+packages/
+dist/
+analysis/
+.venv/
+.pytest_cache/
+tests/.build/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+*.ipa
+*.apk
+*.ips
+*.log

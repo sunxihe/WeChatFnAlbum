@@ -1,0 +1,5 @@
+WeChatFnAlbum source is licensed under GPL-3.0; see LICENSE and project source.
+fnOS login protocol was ported from the project's desktop client, with reference
+to Timandes/pyfnos (https://github.com/Timandes/pyfnos), Apache-2.0.
+No Python runtime, original APK, reference IPA, or third-party WeChat plugins
+are distributed in this bundle. Apple system frameworks are linked dynamically.
